@@ -2,14 +2,33 @@
 # 代码结果
 # 01 数据加载与预处理
 <img src="![66b20fc0cf68d0f28fa0dc2d23cb01f](https://github.com/user-attachments/assets/51618749-d127-4075-94bc-78c66de8ca72)
-" alt="图片描述" width="800" />
+" />
 
 # 模型初始化
+<img src="![52c1ab7edee20d130d4330c44af4e0b](https://github.com/user-attachments/assets/c898cca9-7a89-4a12-b178-ec0b985746d2)
+" />
+
 # RNN序列处理验证
+<img src="![028b3fae83afac1772b61227e135492](https://github.com/user-attachments/assets/31c23944-f33f-445f-842c-8267800b3cf6)
+" />
+
 # 模型性能评估
+<img src="![30b21716cf8f3081fcbc44c49f76921](https://github.com/user-attachments/assets/f88540dc-bc9c-4e0b-988c-6b87bd9eae16)
+" />
+
 # 推理能力验证
+<img src="![bae293907e615def0ca637673b4c6a4](https://github.com/user-attachments/assets/69e32c4e-a73b-42db-b08b-b9e992bc959a)
+" />
+<img src="![579c0d80dcbc82e982125f7bc3a9d73](https://github.com/user-attachments/assets/557d5bf3-82ce-4307-bc26-ddda9eaa39da)
+" />
+
 # 无条件姓氏生成
+<img src="![23bd66b173d30a0af366082c89bb89c](https://github.com/user-attachments/assets/37c3ca82-ba7e-4cf9-9db5-b673dd238a9f)
+" />
+
 # 有条件姓氏生成
+<img src="![4c59181b2d845c2fa6f66aaa122fc88](https://github.com/user-attachments/assets/8c1ce412-ae3f-42cc-9bf1-3ba7080d4bdc)
+" />
 
 
 # 问题与答案
