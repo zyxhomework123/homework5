@@ -1,6 +1,9 @@
 # homework5
 # 代码结果
-# 数据加载与预处理
+# 01 数据加载与预处理
+<img src="![66b20fc0cf68d0f28fa0dc2d23cb01f](https://github.com/user-attachments/assets/51618749-d127-4075-94bc-78c66de8ca72)
+" alt="图片描述" width="800" />
+
 # 模型初始化
 # RNN序列处理验证
 # 模型性能评估
